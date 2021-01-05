@@ -99,7 +99,7 @@ Write-OutputMessage "KICKSTART - Building API"
 Write-OutputMessage "=================================================================================================================================="
 
 Set-Location aspnet-core
-dotnet build "NAME_OF_SOLUTION.sln"
+dotnet build "NAME_OF_SOLUTION.Web.sln"
 
 Write-OutputMessage ""
 Write-OutputMessage "=================================================================================================================================="
