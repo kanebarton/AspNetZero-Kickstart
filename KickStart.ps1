@@ -120,7 +120,7 @@ Write-OutputMessage "===========================================================
 Write-OutputMessage "KICKSTART - Finished"
 Write-OutputMessage "=================================================================================================================================="
 Write-InstructionMessage "Usage:"
-Write-InstructionMessage "In a new command terminal from the aspnet-core/src/HelloWorldAbpDemo.Web.Host folder run 'dotnet run HelloWorldAbpDemo.Web.Host.csproj'"
+Write-InstructionMessage "In a new command terminal from the aspnet-core/src/NAME_OF_SOLUTION.Web.Host folder run 'dotnet run NAME_OF_SOLUTION.Web.Host.csproj'"
 Write-InstructionMessage "Open the API http://localhost:21021/"
 Write-InstructionMessage "In a new command terminal from the angular folder run 'npm run start'"
 Write-InstructionMessage "Open the UI http://localhost:4200/"
